@@ -1,1 +1,1 @@
-Job Search & Articles
+Resume & Articles
