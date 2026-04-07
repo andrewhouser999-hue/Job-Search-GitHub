@@ -5,7 +5,7 @@ date: 2026-04-07
 author: Andrew J Houser
 ---
 
-We had a rare gift that day — free time. A small group of us spent it the way soldiers do: pushing equipment to its limits across terrain no sane civilian would attempt. We discovered that HMMWVs will drive underwater and that a deuce-and-a-half will back up a near-vertical embankment. I can confirm the latter personally, having come face-to-face with one around a blind corner on a narrow trail. The shock on our faces apparently made for good entertainment from the cab.
+We had a rare gift that day — free time. A small group of us spent it the way soldiers do: pushing equipment to its limits across terrain no sane civilian would attempt. We discovered that Humvees will drive underwater and that a deuce-and-a-half will back up a near-vertical embankment. I can confirm the latter personally, having come face-to-face with one around a blind corner on a narrow trail. The shock on our faces apparently made for good entertainment from the cab.
 
 Before the day started, we dug a fire pit — roughly a foot deep and eight feet across — and filled it with branches and debris. By evening it would be a perfect bed of coals. We had plans.
 
