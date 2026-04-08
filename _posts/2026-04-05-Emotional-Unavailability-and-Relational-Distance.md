@@ -3,6 +3,7 @@ layout: post
 title: "Emotional Unavailability and Relational Distance" 
 date: 2026-04-05
 author: Andrew J Houser
+excerpt: "A long-form case study arguing that the dominant relational style of professional culture is warm-but-defended emotional unavailability, and tracing its compounding cost across careers, organizations, marriages, and personal identity."
 ---
 
 ### A Case for Relationship Intelligence in Professional and Personal Life

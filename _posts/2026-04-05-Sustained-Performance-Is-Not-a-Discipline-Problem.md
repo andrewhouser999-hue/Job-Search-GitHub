@@ -3,6 +3,7 @@ layout: post
 title: "Sustained Performance Isn't a Discipline Problem"
 date: 2026-04-05
 author: Andrew J Houser
+excerpt: "Elite, lasting performance is not produced by external pressure or accountability but by the convergence of competency and identity, which only a culture intentionally building that identity can create."
 ---
 
 Sustained performance isn't a discipline problem.

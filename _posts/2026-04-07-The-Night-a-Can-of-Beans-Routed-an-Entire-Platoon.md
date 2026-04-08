@@ -3,6 +3,7 @@ layout: post
 title: "The Night a Can of Beans Routed an Entire Platoon"
 date: 2026-04-07
 author: Andrew J Houser
+excerpt: "A true military story about a sealed can of pork and beans, a bed of hot coals, and a commander with a nearly empty cooler who sent a full platoon of trained soldiers sprinting into the dark in their underwear."
 ---
 
 We had a rare gift that day — free time. A small group of us spent it the way soldiers do: pushing equipment to its limits across terrain no sane civilian would attempt. We discovered that HMMWVs will drive underwater and that a deuce-and-a-half will back up a near-vertical embankment. I can confirm the latter personally, having come face-to-face with one around a blind corner on a narrow trail. The shock on our faces apparently made for good entertainment from the cab.

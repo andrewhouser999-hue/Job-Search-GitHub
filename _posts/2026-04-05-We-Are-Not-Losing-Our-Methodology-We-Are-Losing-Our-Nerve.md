@@ -3,6 +3,7 @@ layout: post
 title: "We Are Not Losing Our Methodology — We Are Losing Our Nerve"
 date: 2026-04-05
 author: Andrew J Houser
+excerpt: "A first-person account of rebuilding a broken onboarding program from scratch by sequencing identity before skill, resulting in 30% more perfect client satisfaction scores than any prior class."
 ---
 
 Leadership called it "World Class."

@@ -3,6 +3,7 @@ layout: post
 title: "The Real Reason High Performers Keep Going When Everyone Else Stops"
 date: 2026-04-06
 author: Andrew J Houser
+excerpt: "High performers don't operate on superior discipline; they operate from identity and intrinsic meaning, which shifts effort from something forced into something expressed."
 ---
 
 Everyone has a theory about what separates the people who make it from the people who don't.
