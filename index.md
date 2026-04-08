@@ -10,6 +10,6 @@ The Featured Articles below are the clearest window into how I think, what I bel
 
 ---
 
-### [Andrew J. Houser — Resume]({{ "/resume.html" | relative_url }}) &nbsp;&nbsp; <span style="font-size: 0.85rem; font-weight: normal;">Text me to set up a time to share &mdash; 402-990-0712</span>
+### [Andrew J. Houser — Resume]({{ "/resume.html" | relative_url }}) &nbsp;&nbsp; <span style="font-size: 0.85rem; font-weight: normal;">Let's talk. Text me at 402-990-0712.</span>
 
 ---
